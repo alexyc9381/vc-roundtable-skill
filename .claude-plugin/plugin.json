@@ -1,0 +1,21 @@
+{
+  "name": "vc-roundtable-skill",
+  "description": "A table of 7 Claudes, each playing a top VC firm, hears your startup pitch, grills you, and votes fund or pass, with exactly what to fix. Free Claude Code skill.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alex Chen",
+    "url": "https://chen.media"
+  },
+  "homepage": "https://chen.media",
+  "repository": "https://github.com/alexyc9381/vc-roundtable-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "subagents",
+    "startups",
+    "fundraising",
+    "pitch",
+    "venture-capital"
+  ]
+}

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you show this in a video, post, article or paper, please credit it as below and tag @nocodealex."
+type: software
+title: "vc-roundtable-skill: a table of 7 claudes playing top vc firms hears your startup pitch, grills you, and votes fund or pass"
+abstract: "A free Claude Code skill. A table of 7 Claudes, each playing a top VC firm, hears your startup pitch, grills you, and votes fund or pass. Every firm that passes says exactly what to fix."
+authors:
+  - given-names: Alex
+    family-names: Chen
+    alias: nocodealex
+    website: "https://chen.media"
+repository-code: "https://github.com/alexyc9381/vc-roundtable-skill"
+url: "https://chen.media"
+license: MIT
+version: "0.1.0"
+keywords:
+  - claude-code
+  - claude-skills
+  - subagents
+  - startups
+  - fundraising
+  - pitch

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vc-roundtable-skill",
+  "description": "The VC Roundtable skill for Claude Code",
+  "owner": {
+    "name": "Alex Chen"
+  },
+  "plugins": [
+    {
+      "name": "vc-roundtable-skill",
+      "description": "A table of 7 Claudes, each playing a top VC firm, hears your startup pitch, grills you, and votes fund or pass, with exactly what to fix.",
+      "source": "./",
+      "category": "productivity",
+      "author": {
+        "name": "Alex Chen",
+        "url": "https://chen.media"
+      },
+      "homepage": "https://chen.media"
+    }
+  ]
+}

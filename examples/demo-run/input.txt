@@ -1,0 +1,11 @@
+Slide 1: Tidy. An app that plans your family's meals for the week and orders the groceries.
+
+Slide 2: The problem. Parents spend about 5 hours a week deciding what to cook and shopping for it. Most give up and order takeout.
+
+Slide 3: What we built. You tell Tidy who eats what and your budget. Every Sunday it plans 7 dinners and fills a grocery cart you approve in one tap.
+
+Slide 4: Traction. 400 families on the waitlist. 60 families paying $8 a month since August. 41 of the 60 are still paying.
+
+Slide 5: Team. Two founders. One built the meal planner at a food delivery company. One is a parent of three who ran a 12-person school lunch program.
+
+Slide 6: The ask. We are raising $500K to hire one engineer and add two more grocery stores.
