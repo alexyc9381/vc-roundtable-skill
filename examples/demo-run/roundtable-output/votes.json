@@ -1,0 +1,200 @@
+{
+ "kept": [
+  {
+   "firm": "a16z",
+   "verdict": "pass",
+   "why": "We back technical founders whose software changes how a whole industry works. Right now this is a meal-plan app sitting on top of one grocer, and when we asked what nobody could copy, there was no answer.",
+   "fix": [
+    "Name the software you own that a delivery app or a grocer's own app could not copy in a quarter, and show it running: the planner logic, the cart-filling data, or a link into the grocer's systems.",
+    "Say which founder owns the core tech and put that person up front. Then explain why software is the moat if the $500K only hires one engineer.",
+    "Show that adding a grocery chain is a software job you can repeat quickly, not a new deal from scratch each time, so this can change how families buy food and not just plug into one store."
+   ],
+   "quotes": [
+    {
+     "words": "What a delivery app or grocer could not copy: [not answered]",
+     "note": "This is our main question and it went unanswered. With no moat on record, this looks like a feature a grocer could add to its own app."
+    },
+    {
+     "words": "Who owns the core tech, and why only one engineer: [not answered]",
+     "note": "We can't tell who the technical founder is, and an ask for 'one engineer' makes the software sound small."
+    },
+    {
+     "words": "One built the meal planner at a food delivery company.",
+     "note": "The strongest point in the pitch: real experience building the product. But it was never connected to anything only this team can build."
+    },
+    {
+     "words": "Works with one grocery chain today",
+     "note": "Relying on one partner is the opposite of changing an industry. The grocer controls the channel, not Tidy."
+    }
+   ]
+  },
+  {
+   "firm": "benchmark",
+   "verdict": "pass",
+   "why": "We fund a handful of companies a year, so we need two things on day one: users who can't live without it and one founder we'd follow anywhere. Here a third of the first families left in two months, and you couldn't tell us who leads.",
+   "fix": [
+    "Show that people love it: get the families still paying to stay month after month, and bring back what the 19 who left told you and what the 41 who stayed would do if Tidy shut off.",
+    "Name one lead founder and tell the story of something hard they kept pushing through, so we can see why we'd follow that person for ten years.",
+    "Bring proof of love that you didn't pay for: families telling friends, the waitlist growing beyond the one newsletter post, people asking for more."
+   ],
+   "quotes": [
+    {
+     "words": "41 of the 60 are still paying.",
+     "note": "19 of your first 60 families left in about two months. Loved products don't lose a third of their first users that fast."
+    },
+    {
+     "words": "What the 19 who left said, and what the 41 would do without Tidy: [not answered]",
+     "note": "We asked what users would do without you and got no answer. That was the love test, and it went blank."
+    },
+    {
+     "words": "Which one is the lead: [not answered]",
+     "note": "We back one founder. With no lead named, we have no one to bet on."
+    },
+    {
+     "words": "The waitlist of 400 came from one parenting newsletter post.",
+     "note": "Good early interest, but it is one post, not users bringing in other users."
+    }
+   ]
+  },
+  {
+   "firm": "general-catalyst",
+   "verdict": "pass",
+   "why": "We back businesses that make money for years, and we can't see that here yet. A third of paying families left in two months, at $8 each, and you didn't answer how this grows at 10 times the size.",
+   "fix": [
+    "Show how many families are still paying after 3 and 6 months, and what you changed to stop a third leaving.",
+    "Give the cost to win one family and how many months of $8 it takes to earn that back.",
+    "Pick the money engine at 10x (a higher price, a cut of each grocery order, or what grocers pay you) and show that math, not just 600 x $8."
+   ],
+   "quotes": [
+    {
+     "words": "41 of the 60 are still paying",
+     "note": "19 of 60 gone in about two months. If that keeps up, there is no lasting revenue to build on."
+    },
+    {
+     "words": "60 families paying $8 a month",
+     "note": "That is $480 a month. Even at 10x it is $4,800 a month, which is not a big company."
+    },
+    {
+     "words": "How Tidy makes more money at 10 times the size (higher price, a cut of the order, or something else): [not answered]",
+     "note": "The one question we care about most went unanswered."
+    },
+    {
+     "words": "Where that goes in a year, and the cost to win each family: [not answered]",
+     "note": "No cost to win a family means we can't tell if growth makes or loses money."
+    }
+   ]
+  },
+  {
+   "firm": "index",
+   "verdict": "pass",
+   "why": "We asked for the cost to win a family, what you keep from each $8, and the payback time, and none of it was answered. We also can't see how adding stores one chain at a time works outside your first market.",
+   "fix": [
+    "Bring the unit economics: what it costs to win one family, what you keep from each $8 after the grocery side, and how many months until a family pays that back, using your real churn.",
+    "Show what it takes to add one grocery store, in time and money, and how Tidy works in a second country without starting over.",
+    "Show the cost to win a family with paid channels too, not only the waitlist that came from one newsletter post."
+   ],
+   "quotes": [
+    {
+     "words": "Cost to get a family, what is kept from each $8, and payback time: [not answered]",
+     "note": "This is the question we care about most. With no answer, we can't tell if each family makes or loses money."
+    },
+    {
+     "words": "41 of the 60 are still paying",
+     "note": "About a third gone in two months at $8 a month. Unless winning a family is very cheap, that payback won't work."
+    },
+    {
+     "words": "What it takes to add one, and how it works in other countries: [not answered]",
+     "note": "Without this we can't see the product selling in many countries. It looks like store-by-store setup in one market."
+    },
+    {
+     "words": "The waitlist of 400 came from one parenting newsletter post.",
+     "note": "Cheap demand from one post is a good sign, but one post tells us nothing about what it costs to win families at scale."
+    }
+   ]
+  },
+  {
+   "firm": "kleiner-perkins",
+   "verdict": "pass",
+   "why": "The team has real inside experience, but you never told us why this problem is hard or who your first 10 hires are. Weekly meal planning reads as a convenience, not a hard problem, until you show us what the delivery companies keep getting wrong.",
+   "fix": [
+    "Answer the question you skipped: why haven't food delivery companies solved this? Name the hard part you learned from the inside, at the delivery company and running the school lunch program.",
+    "Give us the first 10 hires in order, with the job each one does and the milestone it unlocks. Explain why an engineer comes before someone who signs up grocery chains.",
+    "Show that the hard part is yours: what the meal planner does that a grocer's own app could not copy."
+   ],
+   "quotes": [
+    {
+     "words": "One built the meal planner at a food delivery company",
+     "note": "The best line in the deck. You know this problem from the inside, and that is exactly the kind of team we look for."
+    },
+    {
+     "words": "Why delivery companies have not solved it: [not answered]",
+     "note": "Fatal. Inside knowledge only counts if you can say why the problem is hard. Without that, we have no reason to think it is."
+    },
+    {
+     "words": "The first 10 hires and why an engineer comes first: [not answered]",
+     "note": "With no hiring plan, the $500K reads as a stopgap, not as a plan for building the company."
+    },
+    {
+     "words": "Most give up and order takeout.",
+     "note": "Real pain, but it sounds like a convenience gap. It does not yet show a hard problem."
+    }
+   ]
+  },
+  {
+   "firm": "sequoia",
+   "verdict": "pass",
+   "why": "We asked why now and what lasts 20 years, and both came back unanswered. Without a reason this works today and not five years ago, this is one more meal app.",
+   "fix": [
+    "Answer why now in one line: name the specific thing that changed in the last year or two that lets Tidy plan and order where meal kits and grocery apps failed.",
+    "Size the market: how many families, at what yearly spend, and what share Tidy can win, instead of an ask that stops at two more stores.",
+    "Name what Tidy owns that a grocery chain or delivery company could not copy into its own app, so it still matters in 20 years."
+   ],
+   "quotes": [
+    {
+     "words": "Why now: [not answered]",
+     "note": "Our first question had no answer. Without a why now, the problem is old and so is the bet."
+    },
+    {
+     "words": "Most give up and order takeout.",
+     "note": "A real pain, but delivery apps sit right on top of it. It shows the problem, not why Tidy wins now."
+    },
+    {
+     "words": "add two more grocery stores",
+     "note": "The ask is sized for a small app, not a company that matters in 20 years."
+    },
+    {
+     "words": "what Tidy owns that a grocery chain or delivery company could not copy: [not answered]",
+     "note": "No moat named, so nothing tells us this is still standing when a grocer builds the same planner."
+    }
+   ]
+  },
+  {
+   "firm": "y-combinator",
+   "verdict": "fund if",
+   "why": "Two full-time founders, a clear one-liner and people already paying is the kind of team we like. But you couldn't tell us whether you talked to the 19 families who left, or what you're shipping this week.",
+   "fix": [
+    "Call all 19 families who quit. Write down what each one said, ship one fix within a week, and show us what happened to the rest.",
+    "Hold off on hiring. Add the next grocery store yourselves, then tell us in one sentence what you shipped this week and what changed in the numbers."
+   ],
+   "quotes": [
+    {
+     "words": "An app that plans your family's meals for the week and orders the groceries.",
+     "note": "A clear one-line answer to what you do. That is what we look for."
+    },
+    {
+     "words": "60 families paying $8 a month since August.",
+     "note": "Real people paying real money, early on. Good sign."
+    },
+    {
+     "words": "Whether we talked to all 19 who left and what we shipped because of it: [not answered]",
+     "note": "This is the main reason we didn't say yes. We want founders who talk to users every week, and no answer suggests that isn't happening."
+    },
+    {
+     "words": "Why the founders can't add the stores and fix churn first, and what ships this week: [not answered]",
+     "note": "Asking for money to hire before showing what the two of you ship each week makes us think you'd move slower than you need to."
+    }
+   ]
+  }
+ ],
+ "dropped": []
+}

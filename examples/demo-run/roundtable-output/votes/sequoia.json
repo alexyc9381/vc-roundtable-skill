@@ -1,0 +1,28 @@
+{
+  "firm": "sequoia",
+  "verdict": "pass",
+  "why": "We asked why now and what lasts 20 years, and both came back unanswered. Without a reason this works today and not five years ago, this is one more meal app.",
+  "fix": [
+    "Answer why now in one line: name the specific thing that changed in the last year or two that lets Tidy plan and order where meal kits and grocery apps failed.",
+    "Size the market: how many families, at what yearly spend, and what share Tidy can win, instead of an ask that stops at two more stores.",
+    "Name what Tidy owns that a grocery chain or delivery company could not copy into its own app, so it still matters in 20 years."
+  ],
+  "quotes": [
+    {
+      "words": "Why now: [not answered]",
+      "note": "Our first question had no answer. Without a why now, the problem is old and so is the bet."
+    },
+    {
+      "words": "Most give up and order takeout.",
+      "note": "A real pain, but delivery apps sit right on top of it. It shows the problem, not why Tidy wins now."
+    },
+    {
+      "words": "add two more grocery stores",
+      "note": "The ask is sized for a small app, not a company that matters in 20 years."
+    },
+    {
+      "words": "what Tidy owns that a grocery chain or delivery company could not copy: [not answered]",
+      "note": "No moat named, so nothing tells us this is still standing when a grocer builds the same planner."
+    }
+  ]
+}

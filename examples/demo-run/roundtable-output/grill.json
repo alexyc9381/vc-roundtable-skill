@@ -1,0 +1,103 @@
+{
+ "asked": [
+  {
+   "n": 1,
+   "firm": "a16z",
+   "name": "a16z",
+   "ask": "You 'fill a grocery cart you approve in one tap' with one chain today. What software have you built that grocers, or the way families buy food, can't run without, and that a delivery app or the grocer's own app couldn't copy in a quarter?",
+   "quote": "fills a grocery cart you approve in one tap"
+  },
+  {
+   "n": 2,
+   "firm": "a16z",
+   "name": "a16z",
+   "ask": "One founder 'built the meal planner at a food delivery company.' Who owns the core tech here, and if software is the moat, why does the $500K hire only 'one engineer'?",
+   "quote": "One built the meal planner at a food delivery company"
+  },
+  {
+   "n": 3,
+   "firm": "benchmark",
+   "name": "Benchmark",
+   "ask": "You say \"41 of the 60 are still paying\", so 19 of your first 60 families left inside two months. Does that look like a product people love? What did the 19 who left tell you, and what would the 41 who stayed do if you shut Tidy off tomorrow?",
+   "quote": "41 of the 60 are still paying"
+  },
+  {
+   "n": 4,
+   "firm": "benchmark",
+   "name": "Benchmark",
+   "ask": "You list \"Two founders\" with two different backgrounds. We back one founder we would follow anywhere. Which of you is that person, and what have you done that shows you will still be pushing on this in ten years when it gets hard?",
+   "quote": "Two founders. One built the meal planner at a food delivery company."
+  },
+  {
+   "n": 5,
+   "firm": "general-catalyst",
+   "name": "General Catalyst",
+   "ask": "You say 41 of the 60 are still paying after two months. That is about a third gone already. If that keeps going, how many families are left in a year, and at $8 a month how do you ever make back what it costs to win each one?",
+   "quote": "41 of the 60 are still paying"
+  },
+  {
+   "n": 6,
+   "firm": "general-catalyst",
+   "name": "General Catalyst",
+   "ask": "At 10 times the size you have 600 families at $8 a month, which is $4,800 a month. Where does the money come from that makes this a big company for years: higher prices, a cut of the grocery order, or something else, and what does that math look like?",
+   "quote": "60 families paying $8 a month since August"
+  },
+  {
+   "n": 7,
+   "firm": "index",
+   "name": "Index Ventures",
+   "ask": "You say \"41 of the 60 are still paying\" at \"$8 a month\". Walk me through the unit economics: what does it cost you to get one family, what do you keep from each $8 after the grocery side, and how many months does a family have to stay before you earn that cost back?",
+   "quote": "60 families paying $8 a month since August. 41 of the 60 are still paying."
+  },
+  {
+   "n": 8,
+   "firm": "index",
+   "name": "Index Ventures",
+   "ask": "Tidy \"orders the groceries\" through stores you plug into one at a time, and the ask is to \"add two more grocery stores\". Grocery chains differ in every country. What does it take to add one store, and how would this work outside your first market without starting over each time?",
+   "quote": "add two more grocery stores"
+  },
+  {
+   "n": 9,
+   "firm": "kleiner-perkins",
+   "name": "Kleiner Perkins",
+   "ask": "Your ask is just one hire. Who are your first 10 hires, in what order, and why does one engineer come before someone who signs up more grocery chains?",
+   "quote": "We are raising $500K to hire one engineer and add two more grocery stores."
+  },
+  {
+   "n": 10,
+   "firm": "kleiner-perkins",
+   "name": "Kleiner Perkins",
+   "ask": "You say one founder built a meal planner and one ran a school lunch program. What did you learn from the inside about why this is hard, and why haven't the food delivery companies already solved it?",
+   "quote": "One built the meal planner at a food delivery company"
+  },
+  {
+   "n": 11,
+   "firm": "sequoia",
+   "name": "Sequoia",
+   "ask": "Your pitch says \"Parents spend about 5 hours a week deciding what to cook and shopping for it\", but meal-kit and grocery apps have chased that same problem for years. Why now? What changed in the last year or two that lets Tidy win where they did not, and why couldn't you have built this five years ago?",
+   "quote": "Parents spend about 5 hours a week deciding what to cook and shopping for it."
+  },
+  {
+   "n": 12,
+   "firm": "sequoia",
+   "name": "Sequoia",
+   "ask": "You are asking for money to \"add two more grocery stores\". How big does this get if it works, and what keeps it standing in 20 years? If one grocery chain or a delivery company builds the same weekly planner into its own app, what do you own that they can't copy?",
+   "quote": "add two more grocery stores"
+  },
+  {
+   "n": 13,
+   "firm": "y-combinator",
+   "name": "Y Combinator",
+   "ask": "You say \"41 of the 60 are still paying\" after about two months. That means 19 of 60 families quit. Have you talked to every one of those 19? What exactly did they tell you, and what did you ship that week because of it?",
+   "quote": "41 of the 60 are still paying"
+  },
+  {
+   "n": 14,
+   "firm": "y-combinator",
+   "name": "Y Combinator",
+   "ask": "You want money \"to hire one engineer and add two more grocery stores\", but you have two founders, and one of them built a meal planner. Why can't the two of you add those stores and fix churn yourselves first? What is the next thing you'll ship this week, before any new hire?",
+   "quote": "to hire one engineer and add two more grocery stores"
+  }
+ ],
+ "dropped": []
+}

@@ -1,0 +1,8 @@
+{
+  "first": "Since August, 60 families have paid us $8 a month to plan their dinners and fill their grocery cart every Sunday.",
+  "fixes": [
+    "Slide 4 (wins Benchmark, General Catalyst, Index Ventures, Y Combinator). Change \"41 of the 60 are still paying.\" to the story behind it: \"We called the 19 families who left. They told us [fill in: what they said]. We shipped [fill in: the fix] in a week, and since then [fill in: how many stayed].\" Then add the money: \"It costs [fill in: cost to win one family] to win a family, we keep [fill in: amount] of each $8, and a family pays that back in [fill in: months].\" General Catalyst also wants the plan at 10 times the size: [fill in: higher price, a cut of each order, or what grocers pay].",
+    "Slide 3 (wins a16z, Sequoia, Kleiner Perkins). After \"fills a grocery cart you approve in one tap\", say what no one can copy and why now: \"A grocer's own app can't copy this because [fill in: the planner logic, cart data or grocer link you own]. Delivery companies never solved it because [fill in: the hard part you saw from the inside]. It works now and not five years ago because [fill in: what changed].\"",
+    "Slide 5 (wins Benchmark, a16z, Kleiner Perkins). Change \"Two founders.\" to one lead: \"[fill in: name] leads and owns the core tech; they built the meal planner at a food delivery company.\" Then tie it to Slide 6 \"hire one engineer\": list the first 10 hires in order, [fill in: the first 10 hires and what each unlocks], and why the engineer comes first."
+  ]
+}

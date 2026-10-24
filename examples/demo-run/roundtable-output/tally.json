@@ -1,0 +1,24 @@
+{
+ "table": 7,
+ "yes": 0,
+ "verdicts": {
+  "fund": 0,
+  "fund if": 1,
+  "pass": 6
+ },
+ "most_quoted": [
+  {
+   "n": 4,
+   "times": 5
+  },
+  {
+   "n": 5,
+   "times": 2
+  },
+  {
+   "n": 2,
+   "times": 2
+  }
+ ],
+ "units": 6
+}

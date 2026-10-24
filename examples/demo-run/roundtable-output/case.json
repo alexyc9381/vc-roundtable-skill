@@ -1,0 +1,155 @@
+{
+ "goal": "Raising $500K pre-seed to hire one engineer and add two grocery stores",
+ "about": "Made-up startup for a demo. Raising $500K pre-seed. Monthly revenue $480 (60 x $8). Started charging Aug 1. 41 of 60 still paying after 2 months. Waitlist 400 from one parenting newsletter post. Works with one grocery chain today. No outside money yet. Two founders full time.",
+ "text": "Slide 1: Tidy. An app that plans your family's meals for the week and orders the groceries.\n\nSlide 2: The problem. Parents spend about 5 hours a week deciding what to cook and shopping for it. Most give up and order takeout.\n\nSlide 3: What we built. You tell Tidy who eats what and your budget. Every Sunday it plans 7 dinners and fills a grocery cart you approve in one tap.\n\nSlide 4: Traction. 400 families on the waitlist. 60 families paying $8 a month since August. 41 of the 60 are still paying.\n\nSlide 5: Team. Two founders. One built the meal planner at a food delivery company. One is a parent of three who ran a 12-person school lunch program.\n\nSlide 6: The ask. We are raising $500K to hire one engineer and add two more grocery stores.",
+ "units": [
+  {
+   "n": 1,
+   "text": "Slide 1: Tidy. An app that plans your family's meals for the week and orders the groceries."
+  },
+  {
+   "n": 2,
+   "text": "Slide 2: The problem. Parents spend about 5 hours a week deciding what to cook and shopping for it. Most give up and order takeout."
+  },
+  {
+   "n": 3,
+   "text": "Slide 3: What we built. You tell Tidy who eats what and your budget. Every Sunday it plans 7 dinners and fills a grocery cart you approve in one tap."
+  },
+  {
+   "n": 4,
+   "text": "Slide 4: Traction. 400 families on the waitlist. 60 families paying $8 a month since August. 41 of the 60 are still paying."
+  },
+  {
+   "n": 5,
+   "text": "Slide 5: Team. Two founders. One built the meal planner at a food delivery company. One is a parent of three who ran a 12-person school lunch program."
+  },
+  {
+   "n": 6,
+   "text": "Slide 6: The ask. We are raising $500K to hire one engineer and add two more grocery stores."
+  }
+ ],
+ "firms": [
+  {
+   "seat": "y-combinator",
+   "name": "Y Combinator",
+   "who": "wants a small team that ships fast, talks to users every week and can say what it does in one line"
+  },
+  {
+   "seat": "sequoia",
+   "name": "Sequoia",
+   "who": "wants a clear why now, a big market and a company that could still matter in 20 years"
+  },
+  {
+   "seat": "a16z",
+   "name": "a16z",
+   "who": "bets on technical founders building software that changes how a whole industry works"
+  },
+  {
+   "seat": "general-catalyst",
+   "name": "General Catalyst",
+   "who": "asks how this makes money for years and what the numbers look like at 10 times the size"
+  },
+  {
+   "seat": "index",
+   "name": "Index Ventures",
+   "who": "wants a product that can sell in many countries and a founder who knows the unit economics cold"
+  },
+  {
+   "seat": "kleiner-perkins",
+   "name": "Kleiner Perkins",
+   "who": "wants a hard problem, a team that knows it from the inside and a plan for the first 10 hires"
+  },
+  {
+   "seat": "benchmark",
+   "name": "Benchmark",
+   "who": "funds few companies, wants one founder it would follow anywhere and a product people already love"
+  }
+ ],
+ "seed": 7,
+ "answers": [
+  {
+   "n": 1,
+   "firm": "a16z",
+   "ask": "You 'fill a grocery cart you approve in one tap' with one chain today. What software have you built that grocers, or the way families buy food, can't run without, and that a delivery app or the grocer's own app couldn't copy in a quarter?",
+   "answer": "Tidy plans 7 dinners every Sunday from who eats what and your budget, then fills a grocery cart you approve in one tap. It works with one grocery chain today. What a delivery app or grocer could not copy: [not answered]"
+  },
+  {
+   "n": 2,
+   "firm": "a16z",
+   "ask": "One founder 'built the meal planner at a food delivery company.' Who owns the core tech here, and if software is the moat, why does the $500K hire only 'one engineer'?",
+   "answer": "One founder built the meal planner at a food delivery company. Who owns the core tech, and why only one engineer: [not answered]"
+  },
+  {
+   "n": 3,
+   "firm": "benchmark",
+   "ask": "You say \"41 of the 60 are still paying\", so 19 of your first 60 families left inside two months. Does that look like a product people love? What did the 19 who left tell you, and what would the 41 who stayed do if you shut Tidy off tomorrow?",
+   "answer": "41 of the 60 are still paying after 2 months. What the 19 who left said, and what the 41 would do without Tidy: [not answered]"
+  },
+  {
+   "n": 4,
+   "firm": "benchmark",
+   "ask": "You list \"Two founders\" with two different backgrounds. We back one founder we would follow anywhere. Which of you is that person, and what have you done that shows you will still be pushing on this in ten years when it gets hard?",
+   "answer": "Two founders, both full time. One built the meal planner at a food delivery company; one is a parent of three who ran a 12-person school lunch program. Which one is the lead: [not answered]"
+  },
+  {
+   "n": 5,
+   "firm": "general-catalyst",
+   "ask": "You say 41 of the 60 are still paying after two months. That is about a third gone already. If that keeps going, how many families are left in a year, and at $8 a month how do you ever make back what it costs to win each one?",
+   "answer": "41 of 60 still paying after 2 months, at $8 a month. Monthly revenue is $480. Where that goes in a year, and the cost to win each family: [not answered]"
+  },
+  {
+   "n": 6,
+   "firm": "general-catalyst",
+   "ask": "At 10 times the size you have 600 families at $8 a month, which is $4,800 a month. Where does the money come from that makes this a big company for years: higher prices, a cut of the grocery order, or something else, and what does that math look like?",
+   "answer": "Monthly revenue is $480 (60 x $8). How Tidy makes more money at 10 times the size (higher price, a cut of the order, or something else): [not answered]"
+  },
+  {
+   "n": 7,
+   "firm": "index",
+   "ask": "You say \"41 of the 60 are still paying\" at \"$8 a month\". Walk me through the unit economics: what does it cost you to get one family, what do you keep from each $8 after the grocery side, and how many months does a family have to stay before you earn that cost back?",
+   "answer": "$8 a month, 41 of 60 still paying after 2 months. The waitlist of 400 came from one parenting newsletter post. Cost to get a family, what is kept from each $8, and payback time: [not answered]"
+  },
+  {
+   "n": 8,
+   "firm": "index",
+   "ask": "Tidy \"orders the groceries\" through stores you plug into one at a time, and the ask is to \"add two more grocery stores\". Grocery chains differ in every country. What does it take to add one store, and how would this work outside your first market without starting over each time?",
+   "answer": "Works with one grocery chain today; the ask is to add two more grocery stores. What it takes to add one, and how it works in other countries: [not answered]"
+  },
+  {
+   "n": 9,
+   "firm": "kleiner-perkins",
+   "ask": "Your ask is just one hire. Who are your first 10 hires, in what order, and why does one engineer come before someone who signs up more grocery chains?",
+   "answer": "The ask is to hire one engineer and add two more grocery stores. The first 10 hires and why an engineer comes first: [not answered]"
+  },
+  {
+   "n": 10,
+   "firm": "kleiner-perkins",
+   "ask": "You say one founder built a meal planner and one ran a school lunch program. What did you learn from the inside about why this is hard, and why haven't the food delivery companies already solved it?",
+   "answer": "One founder built the meal planner at a food delivery company; one ran a 12-person school lunch program. Parents spend about 5 hours a week deciding what to cook and shopping for it, and most give up and order takeout. Why delivery companies have not solved it: [not answered]"
+  },
+  {
+   "n": 11,
+   "firm": "sequoia",
+   "ask": "Your pitch says \"Parents spend about 5 hours a week deciding what to cook and shopping for it\", but meal-kit and grocery apps have chased that same problem for years. Why now? What changed in the last year or two that lets Tidy win where they did not, and why couldn't you have built this five years ago?",
+   "answer": "Parents spend about 5 hours a week deciding what to cook and shopping for it. Why now: [not answered]"
+  },
+  {
+   "n": 12,
+   "firm": "sequoia",
+   "ask": "You are asking for money to \"add two more grocery stores\". How big does this get if it works, and what keeps it standing in 20 years? If one grocery chain or a delivery company builds the same weekly planner into its own app, what do you own that they can't copy?",
+   "answer": "The ask is to add two more grocery stores. How big this gets, and what Tidy owns that a grocery chain or delivery company could not copy: [not answered]"
+  },
+  {
+   "n": 13,
+   "firm": "y-combinator",
+   "ask": "You say \"41 of the 60 are still paying\" after about two months. That means 19 of 60 families quit. Have you talked to every one of those 19? What exactly did they tell you, and what did you ship that week because of it?",
+   "answer": "41 of the 60 are still paying. Whether we talked to all 19 who left and what we shipped because of it: [not answered]"
+  },
+  {
+   "n": 14,
+   "firm": "y-combinator",
+   "ask": "You want money \"to hire one engineer and add two more grocery stores\", but you have two founders, and one of them built a meal planner. Why can't the two of you add those stores and fix churn yourselves first? What is the next thing you'll ship this week, before any new hire?",
+   "answer": "Two founders full time, no outside money yet. Why the founders can't add the stores and fix churn first, and what ships this week: [not answered]"
+  }
+ ]
+}

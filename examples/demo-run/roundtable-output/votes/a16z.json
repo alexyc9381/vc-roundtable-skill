@@ -1,0 +1,28 @@
+{
+  "firm": "a16z",
+  "verdict": "pass",
+  "why": "We back technical founders whose software changes how a whole industry works. Right now this is a meal-plan app sitting on top of one grocer, and when we asked what nobody could copy, there was no answer.",
+  "fix": [
+    "Name the software you own that a delivery app or a grocer's own app could not copy in a quarter, and show it running: the planner logic, the cart-filling data, or a link into the grocer's systems.",
+    "Say which founder owns the core tech and put that person up front. Then explain why software is the moat if the $500K only hires one engineer.",
+    "Show that adding a grocery chain is a software job you can repeat quickly, not a new deal from scratch each time, so this can change how families buy food and not just plug into one store."
+  ],
+  "quotes": [
+    {
+      "words": "What a delivery app or grocer could not copy: [not answered]",
+      "note": "This is our main question and it went unanswered. With no moat on record, this looks like a feature a grocer could add to its own app."
+    },
+    {
+      "words": "Who owns the core tech, and why only one engineer: [not answered]",
+      "note": "We can't tell who the technical founder is, and an ask for 'one engineer' makes the software sound small."
+    },
+    {
+      "words": "One built the meal planner at a food delivery company.",
+      "note": "The strongest point in the pitch: real experience building the product. But it was never connected to anything only this team can build."
+    },
+    {
+      "words": "Works with one grocery chain today",
+      "note": "Relying on one partner is the opposite of changing an industry. The grocer controls the channel, not Tidy."
+    }
+  ]
+}

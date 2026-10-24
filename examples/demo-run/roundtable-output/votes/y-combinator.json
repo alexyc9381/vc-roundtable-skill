@@ -1,0 +1,15 @@
+{
+  "firm": "y-combinator",
+  "verdict": "fund if",
+  "why": "Two full-time founders, a clear one-liner and people already paying is the kind of team we like. But you couldn't tell us whether you talked to the 19 families who left, or what you're shipping this week.",
+  "fix": [
+    "Call all 19 families who quit. Write down what each one said, ship one fix within a week, and show us what happened to the rest.",
+    "Hold off on hiring. Add the next grocery store yourselves, then tell us in one sentence what you shipped this week and what changed in the numbers."
+  ],
+  "quotes": [
+    {"words": "An app that plans your family's meals for the week and orders the groceries.", "note": "A clear one-line answer to what you do. That is what we look for."},
+    {"words": "60 families paying $8 a month since August.", "note": "Real people paying real money, early on. Good sign."},
+    {"words": "Whether we talked to all 19 who left and what we shipped because of it: [not answered]", "note": "This is the main reason we didn't say yes. We want founders who talk to users every week, and no answer suggests that isn't happening."},
+    {"words": "Why the founders can't add the stores and fix churn first, and what ships this week: [not answered]", "note": "Asking for money to hire before showing what the two of you ship each week makes us think you'd move slower than you need to."}
+  ]
+}

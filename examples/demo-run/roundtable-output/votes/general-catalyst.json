@@ -1,0 +1,28 @@
+{
+  "firm": "general-catalyst",
+  "verdict": "pass",
+  "why": "We back businesses that make money for years, and we can't see that here yet. A third of paying families left in two months, at $8 each, and you didn't answer how this grows at 10 times the size.",
+  "fix": [
+    "Show how many families are still paying after 3 and 6 months, and what you changed to stop a third leaving.",
+    "Give the cost to win one family and how many months of $8 it takes to earn that back.",
+    "Pick the money engine at 10x (a higher price, a cut of each grocery order, or what grocers pay you) and show that math, not just 600 x $8."
+  ],
+  "quotes": [
+    {
+      "words": "41 of the 60 are still paying",
+      "note": "19 of 60 gone in about two months. If that keeps up, there is no lasting revenue to build on."
+    },
+    {
+      "words": "60 families paying $8 a month",
+      "note": "That is $480 a month. Even at 10x it is $4,800 a month, which is not a big company."
+    },
+    {
+      "words": "How Tidy makes more money at 10 times the size (higher price, a cut of the order, or something else): [not answered]",
+      "note": "The one question we care about most went unanswered."
+    },
+    {
+      "words": "Where that goes in a year, and the cost to win each family: [not answered]",
+      "note": "No cost to win a family means we can't tell if growth makes or loses money."
+    }
+  ]
+}
